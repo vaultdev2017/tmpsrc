@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "726814557259",
+    "firebase_url": "https://vaultapp-f5b62.firebaseio.com",
+    "project_id": "vaultapp-f5b62",
+    "storage_bucket": "vaultapp-f5b62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726814557259:android:6e18b0967aa3d6e1",
+        "android_client_info": {
+          "package_name": "io.vaultapp.payment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726814557259-1scc9835d5m9bj5kagdioko3ueehla6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOVcLssdoxYstjqIjVkAUP7FeUSjIBv_4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
